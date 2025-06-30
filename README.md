@@ -2,6 +2,12 @@
 
 An interactive web application to visualize popular sorting algorithms in action. Built using **HTML**, **CSS**, and **JavaScript**, this tool helps users understand how sorting algorithms work by providing animated visual feedback.
 
+## 🔗 Live Demo
+
+🌐 [Click here to try it out!](https://priya-sharma06.github.io/Sorting-visualizer/)
+
+---
+
 ## 🚀 Features
 
 - 🧠 **Algorithms Supported**:
